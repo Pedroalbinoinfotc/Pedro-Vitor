@@ -3,3 +3,29 @@ repositorio de engenharia
 
 # Aula 01
 Na aula 01 emprendemos sobre githuhub
+
+# Práticas de Engenharia Básica com o Professor Vagner
+
+## Introdução
+Este repositório é dedicado à aprendizagem e aplicação de práticas fundamentais de engenharia de software, sob a orientação do Professor Vagner. Aqui, exploraremos o uso do GitHub como uma ferramenta essencial para o controle de versão e colaboração em projetos de software.
+
+## Conteúdo
+- **Git e GitHub**: Entendendo os conceitos básicos do Git e como o GitHub pode ser utilizado para gerenciar nossos projetos.
+- **Controle de Versão**: Aprenda a criar e gerenciar branches, commits, merges e pull requests.
+- **Colaboração**: Como colaborar com outros desenvolvedores e contribuir para projetos de código aberto.
+- **Boas Práticas**: Adotando boas práticas de engenharia de software, incluindo revisão de código e testes.
+
+## Como Usar Este Repositório
+1. Clone o repositório para sua máquina local usando `git clone`.
+2. Explore cada seção para aprender mais sobre diferentes práticas de engenharia.
+3. Experimente criar seus próprios branches e fazer alterações.
+4. Envie pull requests para sugerir melhorias ou adicionar novos conteúdos.
+
+## Contribuições
+Contribuições são sempre bem-vindas! Se você tem alguma sugestão ou quer melhorar o conteúdo existente, sinta-se à vontade para fazer um fork do repositório e enviar um pull request com suas mudanças.
+
+## Licença
+MIT
+
+## Agradecimentos
+Um agradecimento especial ao Professor Vagner por nos guiar através dos conceitos fundamentais da engenharia de software e do uso do GitHub.
